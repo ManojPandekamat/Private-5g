@@ -45,3 +45,15 @@ sudo ./program_uicc --adm 12345678 --imsi 001010000000001 --isdn 00000001 --acc 
 same key and operator key we have used while creating user in Open5gs.
 ```
 
+
+# 😥😥😥😥If you face any errors while reading or writing sim
+
+![Screenshot 2025-04-12 222639](https://github.com/user-attachments/assets/a8e04d18-eea0-40bc-979b-287001489674)
+
+Use the following command
+```
+sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+sudo apt-get update
+sudo apt-get install --only-upgrade libstdc++6
+```
+
