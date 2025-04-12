@@ -46,7 +46,7 @@ $ curl -fsSL https://open5gs.org/open5gs/assets/webui/install | sudo -E bash -
 
 ```
 
-===================================================================================================================================================================================================================
+==================================================================================================================================================================
 ## Installation and setup is completed Now we have to configure it to be compatible with srsRAN
 
 **
@@ -148,3 +148,7 @@ Status: inactive
 ```
 sudo systemctl restart open5gs-*
 ```
+
+
+
+# Now we have completed the core side of the 5g setup 👍 🎉🎉.
