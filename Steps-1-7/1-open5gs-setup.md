@@ -49,6 +49,12 @@ $ curl -fsSL https://open5gs.org/open5gs/assets/webui/install | sudo -E bash -
 ===================================================================================================================================================================================================================
 ## Installation and setup is completed Now we have to configure it to be compatible with srsRAN
 
+**
+TIP:
+In case of single node setup (srsGNB and Open5gs in same PC). `No change in IP address required just change MCC and MNC code`. 
+In case of Multinode setup (srsGNB and Open5gs in different PCs). ` change the IP address where highlighted in image to IP address of Machine and MCC and MNC code`. 
+**
+
 ## In case of multi-node setup we need to replace every ip shown in image with the IP address of the machine (Can get using `ip a` command)
 
 ### 1.   /etc/open5gs/mme.yaml configuration
