@@ -15,8 +15,8 @@ Setting up a real time 5g network using **Open5gs** as core and **srsRAN** as RA
 ## Go through the following steps for complete set-up
 ```
   1. Open5gs setup.
-  2. srsRAN setup.
-  3. uhd drivers installation for connecting B210 with the srsRAN.
+  2. uhd drivers installation for connecting B210 with the srsRAN.
+  3. srsRAN setup.
   4. Writing the sim (Opencells SIM card).
   5. Configuring COTS UE (5G Mobile Phone).
   6. Checking connectivity. 
