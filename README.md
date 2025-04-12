@@ -11,7 +11,7 @@ Setting up a real time 5g network using **Open5gs** as core and **srsRAN** as RA
 
 #### Tip: USE UBUNTU IN HOST WITHOUT CREATING VM. (Ex: USE DUAL BOOT) 
 
-
+## The steps are mentioned in above /Steps-1-7 folder
 ## Go through the following steps for complete set-up
 ```
   1. Open5gs setup.
