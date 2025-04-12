@@ -51,4 +51,4 @@ In the Phone Info:
 ![image](https://github.com/user-attachments/assets/a3a51ac7-a796-41d6-a865-8e8e1cf17c74)
 
 
-![image](https://github.com/user-attachments/assets/6726214b-d948-4a49-813b-15779deabe7c)
+
