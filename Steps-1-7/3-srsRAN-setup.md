@@ -25,10 +25,12 @@ sudo make install
 
 # Running srsDNB
 ```
-sudo gnb -c <config file>
+sudo ./gnb -c <config file>
+
  for b210
 
-sudo gnb -c /home/ubuntu/srsRAN_Project/configs/gnb_rf_b200_tdd_n78_20mhz.yml
+cd /home/ubuntu/srsRAN_Project/build/apps/gnb
+sudo ./gnb -c /home/ubuntu/srsRAN_Project/configs/gnb_rf_b200_tdd_n78_20mhz.yml
 ```
 
 ```
