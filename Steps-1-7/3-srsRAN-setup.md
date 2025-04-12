@@ -45,6 +45,10 @@ Change the amf addess to IP address of **PC(Where open5gs is installed)** and bi
 ![image](https://github.com/user-attachments/assets/3b2abf2c-d8d0-4389-9135-6c85bc26fd68)
 
 
+![Uploading image.png…]()
+
+
+
 
 
 
