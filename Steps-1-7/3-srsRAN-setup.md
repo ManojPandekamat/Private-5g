@@ -39,13 +39,16 @@ Change the amf addess to IP address of **PC(Where open5gs is installed)** and bi
  Keep the PLMN code to 00101 and tac 7 (OR same as used in configuration of Open5gs.)
 ```
 **Singlenode setup**
+
 ![image](https://github.com/user-attachments/assets/d4e2ac7e-c098-4beb-ac25-d7666ba218a6)
 
 **Multinode setup**
+
 ![image](https://github.com/user-attachments/assets/3b2abf2c-d8d0-4389-9135-6c85bc26fd68)
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/155a7bb3-7058-4b50-9fa7-3091f8caad49)
+
 
 
 
